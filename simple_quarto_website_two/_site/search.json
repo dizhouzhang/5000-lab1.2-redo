@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Myself",
+    "section": "",
+    "text": "This is Dizhou Zhang, I go by Joe. I graduated from Indiana University Bloomington 1 this May with a bechalor degree in mathematics 2 and economics. I am excited to join Georgetown University this May 3"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Myself",
+    "section": "",
+    "text": "This is Dizhou Zhang, I go by Joe. I graduated from Indiana University Bloomington 1 this May with a bechalor degree in mathematics 2 and economics. I am excited to join Georgetown University this May 3"
+  },
+  {
+    "objectID": "index.html#markdown-table",
+    "href": "index.html#markdown-table",
+    "title": "About Myself",
+    "section": "Markdown Table",
+    "text": "Markdown Table\n\n\n\nFood\nCountry\nCity\nContient\n\n\n\n\nhambergur\nUSA\nNew York\nNorth America\n\n\nfrench fries\nBurgium\nBrussal\nEurope\n\n\nbeijing duck\nChina\nBeijing\nAsia"
+  },
+  {
+    "objectID": "index.html#mermaid",
+    "href": "index.html#mermaid",
+    "title": "About Myself",
+    "section": "Mermaid",
+    "text": "Mermaid\n\n\n\n\nflowchart LR\n  A[crystal city] --&gt; B(pentagon city)\n  B --&gt; C{pentagon}\n  C --&gt; D[Arlington cemetry]\n  C --&gt; E[Rosslyn]\n\n\nA Mermaid diagram"
+  },
+  {
+    "objectID": "index.html#math-expression",
+    "href": "index.html#math-expression",
+    "title": "About Myself",
+    "section": "Math Expression",
+    "text": "Math Expression\n\nThis is an example of a bulleted list with math\nHere is an in-line math equation \\(f(x)=\\frac{e^{x^2}}{2}\\)\n\n\\[\ng(x)=x^n \\rightarrow \\frac{\\partial g}{\\partial x}=n x^{n-1}\n\\]"
+  },
+  {
+    "objectID": "index.html#column",
+    "href": "index.html#column",
+    "title": "About Myself",
+    "section": "Column",
+    "text": "Column\n\n\n\nCountries\n\nUSA\nFrance\nGermany\n\n\n\n\nLanguages\n\nEnglish\nFrench\nGermany\n\n\n\n\n\n‘this is a blockquote’"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "About Myself",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\n(Healy and Goldstein 1978)↩︎\nthis is note2↩︎\nthis is note3↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#getting-up",
+    "href": "slides/slides.html#getting-up",
+    "title": "Hobbies",
+    "section": "Getting up",
+    "text": "Getting up\n[@healy1978regression] - Turn off alarm - Get out of bed"
+  },
+  {
+    "objectID": "slides/slides.html#going-to-class",
+    "href": "slides/slides.html#going-to-class",
+    "title": "Hobbies",
+    "section": "Going to class",
+    "text": "Going to class\n\nGet in class\nleave class"
+  },
+  {
+    "objectID": "slides/slides.html#going-to-sleep",
+    "href": "slides/slides.html#going-to-sleep",
+    "title": "Hobbies",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep\n\n\n\nCode\n# comment\n11+1"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus molestie nunc non blandit massa enim nec dui. Ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet. Gravida neque convallis a cras. Massa sapien faucibus et molestie ac feugiat sed lectus vestibulum. Morbi enim nunc faucibus a. Dolor magna eget est lorem ipsum. Purus gravida quis blandit turpis cursus in. Posuere urna nec tincidunt praesent semper feugiat nibh sed. Egestas dui id ornare arcu odio ut sem. Aliquet nec ullamcorper sit amet risus nullam eget felis. Blandit cursus risus at ultrices. Sed faucibus turpis in eu. A diam maecenas sed enim ut sem viverra aliquet eget. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla1. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Iaculis nunc sed augue lacus viverra vitae congue eu. Sagittis orci a scelerisque purus semper.\nSuscipit2 tellus mauris a diam maecenas sed. Pharetra pharetra massa massa ultricies mi quis hendrerit. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Et magnis dis parturient montes nascetur ridiculus mus mauris vitae. Accumsan lacus vel facilisis volutpat. Sed velit dignissim sodales ut eu sem integer vitae justo. Vitae proin sagittis nisl rhoncus mattis. Ut morbi tincidunt augue interdum velit euismod. Sit amet commodo nulla facilisi nullam vehicula ipsum a. Ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Consectetur adipiscing elit ut aliquam. Blandit cursus risus at ultrices mi tempus. Neque sodales ut etiam sit. Cras tincidunt lobortis feugiat vivamus at. Posuere morbi leo urna molestie at elementum eu facilisis sed3"
+  },
+  {
+    "objectID": "about.html#ipsum-lorem",
+    "href": "about.html#ipsum-lorem",
+    "title": "About me",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus molestie nunc non blandit massa enim nec dui. Ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet. Gravida neque convallis a cras. Massa sapien faucibus et molestie ac feugiat sed lectus vestibulum. Morbi enim nunc faucibus a. Dolor magna eget est lorem ipsum. Purus gravida quis blandit turpis cursus in. Posuere urna nec tincidunt praesent semper feugiat nibh sed. Egestas dui id ornare arcu odio ut sem. Aliquet nec ullamcorper sit amet risus nullam eget felis. Blandit cursus risus at ultrices. Sed faucibus turpis in eu. A diam maecenas sed enim ut sem viverra aliquet eget. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla1. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Iaculis nunc sed augue lacus viverra vitae congue eu. Sagittis orci a scelerisque purus semper.\nSuscipit2 tellus mauris a diam maecenas sed. Pharetra pharetra massa massa ultricies mi quis hendrerit. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Et magnis dis parturient montes nascetur ridiculus mus mauris vitae. Accumsan lacus vel facilisis volutpat. Sed velit dignissim sodales ut eu sem integer vitae justo. Vitae proin sagittis nisl rhoncus mattis. Ut morbi tincidunt augue interdum velit euismod. Sit amet commodo nulla facilisi nullam vehicula ipsum a. Ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Consectetur adipiscing elit ut aliquam. Blandit cursus risus at ultrices mi tempus. Neque sodales ut etiam sit. Cras tincidunt lobortis feugiat vivamus at. Posuere morbi leo urna molestie at elementum eu facilisis sed3"
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "About me",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nthis is note1↩︎\nthis is note2↩︎\nthis is note3↩︎"
+  }
+]
