@@ -15,7 +15,7 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: pulse
     toc: true
 
 
